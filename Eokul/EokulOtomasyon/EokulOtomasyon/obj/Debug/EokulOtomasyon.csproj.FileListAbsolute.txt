@@ -1,0 +1,14 @@
+C:\Users\90553\Desktop\Eokul\EokulOtomasyon\EokulOtomasyon\bin\Debug\EokulOtomasyon.exe.config
+C:\Users\90553\Desktop\Eokul\EokulOtomasyon\EokulOtomasyon\bin\Debug\EokulOtomasyon.exe
+C:\Users\90553\Desktop\Eokul\EokulOtomasyon\EokulOtomasyon\bin\Debug\EokulOtomasyon.pdb
+C:\Users\90553\Desktop\Eokul\EokulOtomasyon\EokulOtomasyon\obj\Debug\EokulOtomasyon.csproj.AssemblyReference.cache
+C:\Users\90553\Desktop\Eokul\EokulOtomasyon\EokulOtomasyon\obj\Debug\EokulOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\90553\Desktop\Eokul\EokulOtomasyon\EokulOtomasyon\obj\Debug\EokulOtomasyon.Form1.resources
+C:\Users\90553\Desktop\Eokul\EokulOtomasyon\EokulOtomasyon\obj\Debug\EokulOtomasyon.Properties.Resources.resources
+C:\Users\90553\Desktop\Eokul\EokulOtomasyon\EokulOtomasyon\obj\Debug\EokulOtomasyon.csproj.GenerateResource.cache
+C:\Users\90553\Desktop\Eokul\EokulOtomasyon\EokulOtomasyon\obj\Debug\EokulOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\90553\Desktop\Eokul\EokulOtomasyon\EokulOtomasyon\obj\Debug\EokulOtomasyon.exe
+C:\Users\90553\Desktop\Eokul\EokulOtomasyon\EokulOtomasyon\obj\Debug\EokulOtomasyon.pdb
+C:\Users\90553\Desktop\Eokul\EokulOtomasyon\EokulOtomasyon\obj\Debug\EokulOtomasyon.FrmNotlar.resources
+C:\Users\90553\Desktop\Eokul\EokulOtomasyon\EokulOtomasyon\obj\Debug\EokulOtomasyon.FrmOgretmen.resources
+C:\Users\90553\Desktop\Eokul\EokulOtomasyon\EokulOtomasyon\obj\Debug\EokulOtomasyon.FrmKulupler.resources
